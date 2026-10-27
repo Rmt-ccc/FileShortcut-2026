@@ -1,3 +1,5 @@
+# https://release-assets.githubusercontent.com/github-production-release-asset/1366888944/d93274bc-629b-4576-bbad-29250b33ed42?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-10-27T13%3A57%3A05Z&rscd=attachment%3B+filename%3Dapp-debug.apk&rsct=application%2Fvnd.android.package-archive&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-10-27T12%3A56%3A46Z&ske=2026-10-27T13%3A57%3A05Z&sks=b&skv=2018-11-09&sig=yiRKUUTy7ZiKyRkXmwGU5vwGvX9Vxv1LJ08P%2BXEfqpo%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc5MzEwNjI0NSwibmJmIjoxNzkzMTA1OTQ1LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.oeDu3Tz7WD97fcr2hSWQQwoessOHQXh7j6wqtEhL1lw&response-content-disposition=attachment%3B%20filename%3Dapp-debug.apk&response-content-type=application%2Fvnd.android.package-archive
+
 # FileShortcut 2026 [![Build APK](https://github.com/75py/FileShortcut/actions/workflows/build.yml/badge.svg)](https://github.com/75py/FileShortcut/actions/workflows/build.yml)
 
 Create shortcuts to open your files!
